@@ -1,5 +1,24 @@
 # 💫 About Me:
-👨‍💻 Bilal | Senior Front-End Developer<br><br>💡 Expertise:<br><br>🌐 Crafting and managing business websites with CMS platforms like WordPress & Shopify<br>🎨 Specializing in Custom WordPress, Shopify 2.0, and UI Development<br>🛠️ Transforming designs from Figma to HTML, Figma to WordPress, and Figma to Shopify<br><br>🖥️ Skills:<br><br>🖌️ Designing user-friendly, responsive websites that exceed client expectations<br>🛠️ Writing efficient, testable code with modern web development best practices<br>🎯 Proficient in theme & plugin development and both front-end & back-end implementation<br>🚀 Strengths:<br><br>⚡ Agile mindset with a focus on delivering top-notch results<br>📚 Fast learner, dedicated worker, and collaborative team player<br>🔧 Proficient in various scripting languages and multimedia web tools<br><br>Let's create something amazing together! 🚀
+👨‍💻 <strong>Bilal | Full-stack Developer & AI Enthusiast</strong><br><br>
+
+💡 <strong>Expertise:</strong><br>
+🌐 Crafting and managing business websites with CMS platforms like WordPress & Shopify<br>
+🎨 Specializing in Custom WordPress, Shopify 2.0, and UI Development<br>
+🛠️ Transforming designs from Figma to HTML, Figma to WordPress, and Figma to Shopify<br>
+🤖 Integrating AI-powered tools and features into websites and apps<br><br>
+
+🖥️ <strong>Skills:</strong><br>
+🖌️ Designing user-friendly, responsive websites that exceed client expectations<br>
+🛠️ Writing efficient, testable code with modern web development best practices<br>
+🎯 Proficient in theme & plugin development, front-end & back-end implementation<br>
+💡 Applying AI techniques like chatbots, automation, and AI-driven analytics<br><br>
+
+🚀 <strong>Strengths:</strong><br>
+⚡ Agile mindset with a focus on delivering top-notch results<br>
+📚 Fast learner, dedicated worker, and collaborative team player<br>
+🔧 Proficient in scripting languages, web tools, and AI integration<br><br>
+
+Let's create something intelligent and amazing together! 🚀
 
 
 ## 🌐 Socials:
