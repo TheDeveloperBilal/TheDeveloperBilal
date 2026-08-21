@@ -33,7 +33,7 @@
 📈 Helping businesses improve their online presence and workflows<br><br>
 
 🌟 <strong>My Approach:</strong><br>
-I believe good development is not just about writing code — it's about understanding the problem, choosing the right technology, and building something that is reliable, useful and easy to maintain.<br><br>
+I believe good development is not just about writing code; it's about understanding the problem, choosing the right technology, and building something that is reliable, useful and easy to maintain.<br><br>
 
 📚 I'm constantly learning, experimenting with new technologies, and exploring better ways to combine <strong>web development, AI and automation</strong> to create smarter digital solutions.<br><br>
 
