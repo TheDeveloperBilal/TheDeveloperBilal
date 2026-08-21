@@ -1,24 +1,43 @@
 # 💫 About Me:
-👨‍💻 <strong>Bilal | Full-stack Developer & AI Enthusiast</strong><br><br>
+👨‍💻 <strong>Bilal | Full-Stack Developer & AI Enthusiast</strong><br><br>
 
-💡 <strong>Expertise:</strong><br>
-🌐 Crafting and managing business websites with CMS platforms like WordPress & Shopify<br>
-🎨 Specializing in Custom WordPress, Shopify 2.0, and UI Development<br>
-🛠️ Transforming designs from Figma to HTML, Figma to WordPress, and Figma to Shopify<br>
-🤖 Integrating AI-powered tools and features into websites and apps<br><br>
+💡 <strong>About Me:</strong><br>
+🚀 Founder of <a href="http://developersmatrix.com/" target="_blank"><strong>Developers Matrix</strong></a>.<br>
+🌐 I build modern, responsive, and scalable websites, web applications, and eCommerce platforms.<br>
+🤖 I'm passionate about AI, automation, and using emerging technologies to solve real-world problems.<br>
+🛠️ I focus on writing clean, maintainable code and turning ideas and designs into practical digital products.<br><br>
 
-🖥️ <strong>Skills:</strong><br>
-🖌️ Designing user-friendly, responsive websites that exceed client expectations<br>
-🛠️ Writing efficient, testable code with modern web development best practices<br>
-🎯 Proficient in theme & plugin development, front-end & back-end implementation<br>
-💡 Applying AI techniques like chatbots, automation, and AI-driven analytics<br><br>
+⚙️ <strong>Expertise:</strong><br>
+🌐 WordPress, WooCommerce & Shopify development<br>
+🎨 Custom WordPress, Shopify 2.0 & modern UI development<br>
+🖥️ Figma → HTML, Figma → WordPress & Figma → Shopify<br>
+⚛️ React.js, Next.js & Astro.js development<br>
+🐘 PHP, Laravel & Django backend development<br>
+🤖 AI-powered tools, integrations, chatbots & automation<br>
+🔄 n8n workflows & business process automation<br>
+🎯 GoHighLevel integrations and automation<br><br>
 
-🚀 <strong>Strengths:</strong><br>
-⚡ Agile mindset with a focus on delivering top-notch results<br>
-📚 Fast learner, dedicated worker, and collaborative team player<br>
-🔧 Proficient in scripting languages, web tools, and AI integration<br><br>
+🧠 <strong>AI & Development Tools:</strong><br>
+🤖 Claude Code<br>
+⚡ OpenAI Codex<br>
+🧩 Kimi AI<br>
+🚀 Antigravity<br>
+🔗 AI APIs & third-party integrations<br>
+⚙️ n8n Workflow Automation<br><br>
 
-Let's create something intelligent and amazing together! 🚀
+🛠️ <strong>What I Focus On:</strong><br>
+🎨 Creating clean, user-friendly and responsive digital experiences<br>
+💻 Building efficient and maintainable full-stack solutions<br>
+🚀 Developing custom websites, web apps and eCommerce platforms<br>
+🤖 Integrating AI and automation into real-world products<br>
+📈 Helping businesses improve their online presence and workflows<br><br>
+
+🌟 <strong>My Approach:</strong><br>
+I believe good development is not just about writing code — it's about understanding the problem, choosing the right technology, and building something that is reliable, useful and easy to maintain.<br><br>
+
+📚 I'm constantly learning, experimenting with new technologies, and exploring better ways to combine <strong>web development, AI and automation</strong> to create smarter digital solutions.<br><br>
+
+Let's build something useful, intelligent and impactful together! 🚀
 
 
 ## 🌐 Socials:
@@ -28,11 +47,6 @@ Let's create something intelligent and amazing together! 🚀
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TheDeveloperBilal&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=TheDeveloperBilal&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
 
