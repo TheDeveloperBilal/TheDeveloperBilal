@@ -1,4 +1,4 @@
-# 💫About Me:
+#About Me:
 <strong>Bilal | Full-Stack Developer & AI Enthusiast</strong><br><br>
 
 <strong>About Me:</strong><br>
@@ -7,7 +7,7 @@ I build modern, responsive, and scalable websites, web applications, and eCommer
 I'm passionate about AI, automation, and using emerging technologies to solve real-world problems.<br>
 I focus on writing clean, maintainable code and turning ideas and designs into practical digital products.<br><br>
 
-⚙️<strong>Expertise:</strong><br>
+<strong>Expertise:</strong><br>
 WordPress, WooCommerce & Shopify development<br>
 Custom WordPress, Shopify 2.0 & modern UI development<br>
 Figma → HTML, Figma → WordPress & Figma → Shopify<br>
@@ -17,7 +17,7 @@ AI-powered tools, integrations, chatbots & automation<br>
 n8n workflows & business process automation<br>
 GoHighLevel integrations and automation<br><br>
 
-🧠<strong>AI & Development Tools:</strong><br>
+<strong>AI & Development Tools:</strong><br>
 Claude Code<br>
 OpenAI Codex<br>
 Kimi AI<br>
@@ -25,14 +25,14 @@ Antigravity<br>
 AI APIs & third-party integrations<br>
 n8n Workflow Automation<br><br>
 
-🛠️<strong>What I Focus On:</strong><br>
+<strong>What I Focus On:</strong><br>
 Creating clean, user-friendly and responsive digital experiences<br>
 Building efficient and maintainable full-stack solutions<br>
 Developing custom websites, web apps and eCommerce platforms<br>
 Integrating AI and automation into real-world products<br>
 Helping businesses improve their online presence and workflows<br><br>
 
-🌟<strong>My Approach:</strong><br>
+<strong>My Approach:</strong><br>
 I believe good development is not just about writing code; it's about understanding the problem, choosing the right technology, and building something that is reliable, useful and easy to maintain.<br><br>
 
 I'm constantly learning, experimenting with new technologies, and exploring better ways to combine <strong>web development, AI and automation</strong> to create smarter digital solutions.<br><br>
